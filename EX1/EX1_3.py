@@ -1,2 +1,2 @@
-def EX1_2 (a,b) :
+def EX1_3 (a,b) :
     return int(a+b)-1
