@@ -11,7 +11,7 @@ def EX1_4 (a) :
         print('Friday')
     elif a==6:
         print('Saturday')
-    elif a==17:
+    elif a==7:
         print('Sunday')
     else:
         print('Error')
