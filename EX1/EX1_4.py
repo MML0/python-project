@@ -1,18 +1,18 @@
 def EX1_4 (a) :
     if a==1:
-        print('Monday')
+        return('Monday')
     elif a==2:
-        print('Tuesday')
+        return('Tuesday')
     elif a==3:
-        print('Wednesday')
+        return('Wednesday')
     elif a==4:
-        print('Thursday')
+        return('Thursday')
     elif a==5:
-        print('Friday')
+        return('Friday')
     elif a==6:
-        print('Saturday')
+        return('Saturday')
     elif a==7:
-        print('Sunday')
+        return('Sunday')
     else:
-        print('Error')
+        return('Error')
       
