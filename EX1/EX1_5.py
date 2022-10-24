@@ -1,9 +1,9 @@
 def EX1_5(a) :
     if a<=1:
-        print('infant')
+        return('infant')
     elif a<13:
-        print('child')
+        return('child')
     elif a<20:
-        print('teenager')
+        return('teenager')
     else:
-        print('adult')
+        return('adult')
