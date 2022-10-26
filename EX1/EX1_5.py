@@ -1,4 +1,7 @@
 def EX1_5(a) :
+    '''
+    (Float) => str
+    '''
     if a<=1:
         return('infant')
     elif a<13:
