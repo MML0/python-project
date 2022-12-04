@@ -23,6 +23,7 @@ elif xk == xb and yk == yb :
     flag2= False
 elif abs(xk-xb) == abs(yk-yb):
     print("Bishop can attack knight")
+    flag2= False
 else:
     for i in rang:
         for j in rang:
